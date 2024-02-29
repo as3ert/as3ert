@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **as3ertpro@gmail.com**
 
+- 📄 Know about my experiences [https://as3ert.github.io/resume/](https://as3ert.github.io/resume/)
+
 ---
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
