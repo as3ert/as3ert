@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guangxin Zhao</h1>
-<h3 align="center">CS Undergraduate from the Chinese University of Hong Kong, Shenzhen</h3>
+<h3 align="center">CS Master from Universtät Stuttgart</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Computer Science, Visual Computing**
 
 - 💬 Ask me about **C/C++, Python, Java**
 
