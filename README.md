@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guangxin Zhao</h1>
 <h3 align="center">CS Master from Universität Stuttgart</h3>
 
-- 🌱 I’m currently learning **Computer Science, Visual Computing**
+- 🌱 I’m currently a M.Sc in **Computer Science (branch Visual Computing)**
 
 - 💬 Ask me about **C/C++, Python, Java**
 
