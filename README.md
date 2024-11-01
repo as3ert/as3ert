@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guangxin Zhao</h1>
-<h3 align="center">CS Master from Universtät Stuttgart</h3>
+<h3 align="center">CS Master from Universität Stuttgart</h3>
 
 - 🌱 I’m currently learning **Computer Science, Visual Computing**
 
