@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **C/C++, Python, Java**
 
-- 📫 How to reach me **as3ertpro@gmail.com**
+- 📫 How to reach me **guangxin@guangxinzhao.com**
 
-- 📄 Know about my experiences [Resume](https://as3ert.github.io/resume/)
+- 📄 Know about my experiences [Resume](http://resume.guangxinzhao.com)
 
 ---
 <h3 align="left">Programming Languages:</h3>
