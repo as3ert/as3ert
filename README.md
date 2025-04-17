@@ -1,5 +1,6 @@
-<h2 align="center">Hi there 👋, I'm Guangxin Zhao</h2>
+<h1 align="center">Hi there 👋, I'm Guangxin Zhao</h1>
 <h3 align="center">CS Master's student at Universität Stuttgart, majoring in Visual Computing</h3>
+---
 
 - 🌱 I’m currently learning `Vulkan`, `Diligent Engine`
 
