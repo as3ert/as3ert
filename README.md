@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **`Vulkan`, `Diligent Engine`**
 
-- 👨‍💻 All of my projects are available at [[github.com/as3ert](https://github.com/as3ert)]([github.com/as3ert](https://github.com/as3ert))
+- 👨‍💻 All of my projects are available at [github.com/as3ert](https://github.com/as3ert)
 
 - 💬 Ask me about ****C/C++**, **Python**, **Java**, and computer vision-related topics**
 
 - 📫 How to reach me **[guangxin@guangxinzhao.com](mailto:guangxin@guangxinzhao.com)**
 
-- 📄 Know about my experiences [[Resume](http://resume.guangxinzhao.com)]([Resume](http://resume.guangxinzhao.com))
+- 📄 Know about my experiences [Resume](http://resume.guangxinzhao.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
