@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/as3ert](https://github.com/as3ert)
 
-- 💬 Ask me about ****C/C++**, **Python**, **Java**, and computer vision-related topics**
+- 💬 Ask me about **C/C++**, **Python**, **Java**, and computer vision-related topics
 
 - 📫 How to reach me **[guangxin@guangxinzhao.com](mailto:guangxin@guangxinzhao.com)**
 
