@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Guangxin Zhao</h1>
-<h3 align="center">M.Sc. student at Universität Stuttgart, majoring in Visual Computing</h3>
+<h3 align="center">M.Sc. student in Computer Science at Universität Stuttgart (Visual Computing)</h3>
 
-- 🌱 I’m currently learning `Vulkan`, `Diligent Engine`
+- 🌱 Currently learning **Vulkan** and **Diligent Engine**
 
-- 👨‍💻 All of my projects are available at **[github.com/as3ert](https://github.com/as3ert)**
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/as3ert)
 
-- 💬 Ask me about **C/C++**, **Python**, **Java**, and computer vision-related topics
+- 💬 Feel free to ask me about **C/C++**, **Python**, **Java**, or computer vision-related topics
 
-- 📫 How to reach me **[guangxin@guangxinzhao.com](mailto:guangxin@guangxinzhao.com)**
+- 📫 Reach me at [guangxin@guangxinzhao.com](mailto:guangxin@guangxinzhao.com)
 
-- 📄 Know about my experiences **[Resume](http://resume.guangxinzhao.com)**
+- 📄 Learn more about my background from my [Resume](http://resume.guangxinzhao.com)
 
 ---
 
