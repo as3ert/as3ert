@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Guangxin Zhao</h1>
 <h3 align="center">M.Sc. student in Computer Science at Universität Stuttgart (Visual Computing)</h3>
 
-- 🌱 Currently learning **Vulkan** and **Diligent Engine**
+- 🌱 Currently working on **Gaussian Splatting** and **Falcor**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/as3ert)
 
-- 💬 Feel free to ask me about **C/C++**, **Python**, **Java**, or computer vision-related topics
+- 💬 Feel free to ask me about **C/C++**, **Python**, or computer graphics-related topics
 
 - 📫 Reach me at [guangxin@guangxinzhao.com](mailto:guangxin@guangxinzhao.com)
 
